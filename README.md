@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=500&color=8AF3FF&center=true&vCenter=true&width=600&lines=🚀+Hi+there!+I'm+Nico+%F0%9F%91%8B;💠+Also+known+as+Zicholasz;🌌+Explorer+of+Code,+Music,+and+Stars!" alt="Typing SVG" />
 </h1>
 
-<!-- 🌠 ANIMASI STARFIELD -->
-<p align="center">
-  <img src="https://github.com/Akshay090/starfield/blob/main/starfield.gif?raw=true" alt="Starfield Animation" width="100%"/>
-</p>
-
 ---
 
 ### 💫 About Me
