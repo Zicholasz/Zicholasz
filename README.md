@@ -1,7 +1,8 @@
 <!-- 🌌 BANNER UTAMA (gambar lebar di atas) -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/EAtC_lhyO_AAAAAC/anaxa-anaxagoras.gif" width="100%" alt="Honkai Star Rail Cosmic Banner"/>
+  <img src="https://raw.githubusercontent.com/Zicholasz/Zicholasz/main/assets/banner/banner.svg" width="100%" alt="Animated Cosmic Banner"/>
 </p>
+
 
 <!-- 🚀 TEKS HEADER (animasi mengetik) -->
 <h1 align="center">
