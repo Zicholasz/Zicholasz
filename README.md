@@ -130,7 +130,7 @@
 ### 🌐 Let’s Connect
 <p align="center"> <a href="mailto:nicholaskarsono@gmail.com"><img src="https://img.shields.io/badge/Email-nicholaskarsono%40gmail.com-blue?style=for-the-badge&logo=gmail"></a> <a href="https://github.com/Zicholasz"><img src="https://img.shields.io/badge/GitHub-Zicholasz-181717?style=for-the-badge&logo=github"></a> <a href="https://open.spotify.com/user/31xavcevzxobgockfxrldkkfg6li"><img src="https://img.shields.io/badge/Spotify-Zicholasz-1DB954?style=for-the-badge&logo=spotify"></a> </p>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00CFFF&lines=const+Dream=Create();;Keep+Coding,+Keep+Dreaming...;&center=true&size=20"> </p>
-<p align="center"> <img src="https://i.imgur.com/B7yI9aF.gif" width="100%" alt="Cosmic Line Divider"/> </p> <p align="center"> <i>“The universe speaks in code — I just listen.”</i> </p> ```
+<p align="center"> <img src="https://media.tenor.com/WZRPdgRyHWQAAAA1/honkai-star-rail.webp" width="100%" alt="Cosmic Line Divider"/> </p> <p align="center"> <i>“The universe speaks in code — I just listen.”</i> </p> ```
 ---
 
 <p align="center"><i>“Code is like the cosmos — infinite, mysterious, and full of potential.”</i></p>
@@ -140,5 +140,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://i.imgur.com/sIXscXj.mp4" width="300" alt="Honkai Star Rail aesthetic line">
+  <img src="https://upload-os-bbs.hoyolab.com/upload/2025/02/19/17138284/27ba89c413438ab2ebf9dbe2ba2f4a1b_4605514812593865506.jpeg" alt="Honkai Star Rail aesthetic line">
 </p>
